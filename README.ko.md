@@ -37,7 +37,7 @@ argmax 임계값 0.5 기준으로, PubMedBERT는 base BERT 대비 macro-F1
 10초 정도 소요됩니다.
 
 ```bash
-git clone https://github.com/tjohns94/pharmacovigilance-ade-classifier.git
+git clone https://github.com/tysonjohnsondev/pharmacovigilance-ade-classifier.git
 cd pharmacovigilance-ade-classifier
 python -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements-colab.txt

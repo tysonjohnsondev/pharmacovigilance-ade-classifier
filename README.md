@@ -33,7 +33,7 @@ The fastest path to reproducing a result is to run the analysis notebook on
 the committed run outputs. No GPU needed, takes about ten seconds end to end.
 
 ```bash
-git clone https://github.com/tjohns94/pharmacovigilance-ade-classifier.git
+git clone https://github.com/tysonjohnsondev/pharmacovigilance-ade-classifier.git
 cd pharmacovigilance-ade-classifier
 python -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements-colab.txt

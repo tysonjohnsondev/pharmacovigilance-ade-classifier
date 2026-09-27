@@ -11,7 +11,7 @@ bootstrap iteration count, and primary metric all live there.
 ## 0. Clone and pick a lane
 
 ```bash
-git clone https://github.com/tjohns94/pharmacovigilance-ade-classifier.git
+git clone https://github.com/tysonjohnsondev/pharmacovigilance-ade-classifier.git
 cd pharmacovigilance-ade-classifier
 ```
 
